@@ -1,0 +1,51 @@
+main {
+  background-color:#AAB7B8;
+  padding: 25px 50px 25px 50px;
+}
+
+.bdy-div {
+  background-image : url("https://s8.postimg.org/67n8d06l1/fcc_proj1_paper_bckground_-_1.jpg");
+}
+
+.full-text {
+  font-family: 'Merriweather Sans', sans-serif;
+  text-align:center;
+}
+
+.main-text {
+  font-family: 'Oxygen', sans-serif;
+}
+
+h5 {
+  font-family: 'Oxygen', sans-serif;
+  font-weight:bold;
+  color:#3F5165;
+}
+
+img.cropped {
+  
+  position:center;
+  margin:auto;
+  max-height:200%;
+  max-width:50%;     
+}
+
+p {
+  text-align:justify;
+  margin:  10px 250px 25px 
+}
+
+h4 {
+  font-family: 'Oxygen', sans-serif;
+  font-weight:300;
+  color:#3F5165;  
+}
+
+#credit {
+  text-align:center;
+  font-family: 'Oxygen', sans-serif;
+  font-weight:300;
+  color:#3F5165;  
+}
+
+
